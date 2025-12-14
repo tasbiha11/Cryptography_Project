@@ -1,6 +1,6 @@
 # AES Implementation from Scratch
 
-A pure Python implementation of the Advanced Encryption Standard (AES) from scratch, designed for educational purposes. Implements AES-128 with support for ECB mode.
+A pure Python implementation of the Advanced Encryption Standard (AES) from scratch, designed for educational purposes in 2022. Implements AES-128 with support for ECB mode.
 
 ## 📚 Overview
 
