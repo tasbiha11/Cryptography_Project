@@ -16,8 +16,6 @@ This project implements AES (Rijndael algorithm) following the FIPS-197 specific
 - ✅ Clean, well-documented code
 - ✅ No external dependencies
 
-##  Quick Start
-
 ### Installation
 
 No installation required! Just clone and run:
