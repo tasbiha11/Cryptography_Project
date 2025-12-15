@@ -16,17 +16,6 @@ This project implements AES (Rijndael algorithm) following the FIPS-197 specific
 - ✅ Clean, well-documented code
 - ✅ No external dependencies
 
-##  Project Structure
-aes-from-scratch/
-├── src/
-│ ├── aes.py # Main AES implementation
-│ ├── constants.py # AES constants (S-box, Rcon, etc.)
-│ ├── utils.py # Helper functions
-│ └── test_aes.py # Test suite
-├── examples/
-│ └── demo.py # Interactive demonstration
-├── requirements.txt # Dependencies (none required)
-└── README.md # This file
 ##  Quick Start
 
 ### Installation
