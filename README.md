@@ -2,7 +2,7 @@
 
 A pure Python implementation of the Advanced Encryption Standard (AES) from scratch, designed for Cryptography and Computer Security course project in 2022. Implements AES-128 with support for ECB mode.
 
-## 📚 Overview
+##  Overview
 
 This project implements AES (Rijndael algorithm) following the FIPS-197 specification. It's designed to be educational, showing each step of the encryption/decryption process with clear, documented code.
 
@@ -16,9 +16,18 @@ This project implements AES (Rijndael algorithm) following the FIPS-197 specific
 - ✅ Clean, well-documented code
 - ✅ No external dependencies
 
-## 🏗️ Project Structure
-
-## 🚀 Quick Start
+##  Project Structure
+aes-from-scratch/
+├── src/
+│ ├── aes.py # Main AES implementation
+│ ├── constants.py # AES constants (S-box, Rcon, etc.)
+│ ├── utils.py # Helper functions
+│ └── test_aes.py # Test suite
+├── examples/
+│ └── demo.py # Interactive demonstration
+├── requirements.txt # Dependencies (none required)
+└── README.md # This file
+##  Quick Start
 
 ### Installation
 
